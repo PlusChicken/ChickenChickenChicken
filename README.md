@@ -1,2 +1,2 @@
 # ChickenChickenChicken
-this is Chicken's practice storehouse
+This is Chicken's practice storehouse
